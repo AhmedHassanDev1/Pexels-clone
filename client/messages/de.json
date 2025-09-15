@@ -1,0 +1,98 @@
+{
+  "home": {
+    "leaderboard": {
+      "description": "Mitglieder mit den meisten Ansichten zu Fotos und Videos in den letzten 4 Wochen hinzugefügt",
+      "title": "Community -Favoriten"
+    },
+    "title": "Die besten kostenlosen Stockfotos, Lizenzgebühren kostenlose Bilder und Videos, die von Erstellern geteilt werden.",
+    "videos": "Die besten kostenlosen Aktienvideos, die von der Pexels Community geteilt werden."
+  },
+  "RegisterPage": {
+    "title": "Treten Sie der Pexels Community bei",
+    "description": "Erstellen Sie ein kostenloses Konto, um loszulegen."
+  },
+  "highlights": {
+    "not_found": {
+      "title": "Ihr Inhalt, Ihr Weg",
+      "description": "Erstellen Sie den perfekten ersten Eindruck, indem Sie Ihren Lieblingsinhalt ins Rampenlicht stellen. ",
+      "redirect_button": "Wählen Sie Ihre Highlights aus"
+    }
+  },
+  "gallery": {
+    "not_found": {
+      "title": "Sie haben noch keinen Inhalt 😔 😔",
+      "description": "Es ist in Ordnung, wir wissen, dass es wahrscheinlich schwierig ist, aus all Ihren erstaunlichen Fotos zu wählen, was hochladen soll. ",
+      "redirect_button": "Werden Sie Inspiral"
+    }
+  },
+  "uploadPage": {
+    "title": "Teilen Sie Ihre Fotos und Videos und lassen Sie die Welt sie lieben.",
+    "description": "Teilen Sie Ihre ersten 50 Fotos oder Videos mit, um sich Millionen von Pexels -Benutzern vorzustellen.",
+    "upload_methods": "Ziehen und fallen zum Hochladen oder",
+    "rules": {
+      "1": "Originalinhalte, die Sie erfasst haben",
+      "2": "Schließt Nacktheit, Gewalt oder Hass aus",
+      "3": "Bedenken Sie auf die Rechte anderer",
+      "4": "Hochwertige Fotos und Videos",
+      "5": "Lesen Sie die Begriffe Pexels",
+      "6": "Kostenlos heruntergeladen und verwendet werden"
+    }
+  },
+  "MediaPage": {
+    "free_content": "Nutzen Sie kostenlos",
+    "more_content": "Eher so",
+    "info": "Weitere Informationen",
+    "uploaded_at": "Hochgeladen bei",
+    "photo_delails": "Fotodetails"
+  },
+  "keyword": {
+    "about": "über uns",
+    "home": "heim",
+    "leaderboard": "Rangliste",
+    "upload": "hochladen",
+    "videos": "Videos",
+    "explore": "erkunden",
+    "highlights": "Highlights",
+    "gallery": "Galerie",
+    "followers": "Anhänger",
+    "following": "folgen",
+    "milestones": "Meilensteine",
+    "views": "Ansichten",
+    "downloads": "Downloads",
+    "likes": "Mag",
+    "colors": "Farben"
+  },
+  "links": {
+    "your_profile": "Ihr Profil",
+    "your_collections": "Ihre Sammlungen",
+    "license": "Lizenz",
+    "setting": "Einstellung",
+    "skip_upload": "Upload überspringen"
+  },
+  "inputs": {
+    "first_name": "Vorname",
+    "last_name": "Nachname",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "current_password": "Aktuelles Passwort",
+    "new password": "Neues Passwort",
+    "title": "Titel",
+    "tags": "Tags",
+    "location": "Standort"
+  },
+  "search-bar": {
+    "photo": "Suche nach kostenlosen Fotos",
+    "video": "Suche nach kostenlosen Videos"
+  },
+  "buttons": {
+    "logout": "Melden Sie sich aus",
+    "join": "verbinden",
+    "edite_profile": "Edite -Profil",
+    "follow": "folgen",
+    "change_password": "Kennwort ändern",
+    "change_image": "Bild ändern",
+    "download": "Kostenloser Download",
+    "borwse": "Borwse",
+    "submit_conent": "Senden Sie Ihren Inhalt"
+  }
+}

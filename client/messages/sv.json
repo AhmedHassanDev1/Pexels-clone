@@ -1,0 +1,98 @@
+{
+  "home": {
+    "leaderboard": {
+      "description": "Medlemmar med flest visningar om foton och videor som läggs till under de senaste fyra veckorna",
+      "title": "Gemenskapens favoriter"
+    },
+    "title": "De bästa gratis stockfoton, royaltyfria bilder och videor som delas av skapare.",
+    "videos": "De bästa gratis lagerfilmerna som delas av Pexels Community."
+  },
+  "RegisterPage": {
+    "title": "Gå med i Pexels Community",
+    "description": "Skapa ett gratis konto för att komma igång."
+  },
+  "highlights": {
+    "not_found": {
+      "title": "Ditt innehåll, din väg",
+      "description": "Skapa det perfekta första intrycket genom att sätta ditt favoritinnehåll i rampljuset. ",
+      "redirect_button": "Välj dina höjdpunkter"
+    }
+  },
+  "gallery": {
+    "not_found": {
+      "title": "Du har inget innehåll ännu 😔",
+      "description": "Det är OK, vi vet att det förmodligen är svårt att välja vad du ska ladda upp från alla dina fantastiska foton. ",
+      "redirect_button": "bli inspirerad"
+    }
+  },
+  "uploadPage": {
+    "title": "Dela dina foton och videor och låt världen älska dem.",
+    "description": "Dela dina första 50 foton eller videor för att presentera dig för miljoner Pexels -användare.",
+    "upload_methods": "Dra och släpp för att ladda upp, eller",
+    "rules": {
+      "1": "Originalinnehåll du fångade",
+      "2": "Utesluter nakenhet, våld eller hat",
+      "3": "Medveten om andras rättigheter",
+      "4": "Högkvalitativa foton och videor",
+      "5": "Läs Pexels -termerna",
+      "6": "Att laddas ner och användas gratis"
+    }
+  },
+  "MediaPage": {
+    "free_content": "använda gratis",
+    "more_content": "Mer så här",
+    "info": "Mer info",
+    "uploaded_at": "Uppladdad på",
+    "photo_delails": "Fotoinformation"
+  },
+  "keyword": {
+    "about": "om oss",
+    "home": "hem",
+    "leaderboard": "topplista",
+    "upload": "ladda upp",
+    "videos": "videor",
+    "explore": "utforska",
+    "highlights": "höjdpunkter",
+    "gallery": "galleri",
+    "followers": "anhängare",
+    "following": "följande",
+    "milestones": "milstolpar",
+    "views": "Åsikter",
+    "downloads": "Nedladdningar",
+    "likes": "Gillar",
+    "colors": "färger"
+  },
+  "links": {
+    "your_profile": "din profil",
+    "your_collections": "Dina samlingar",
+    "license": "licens",
+    "setting": "miljö",
+    "skip_upload": "uppladdning"
+  },
+  "inputs": {
+    "first_name": "förnamn",
+    "last_name": "efternamn",
+    "email": "e-post",
+    "password": "lösenord",
+    "current_password": "aktuellt lösenord",
+    "new password": "nytt lösenord",
+    "title": "titel",
+    "tags": "taggar",
+    "location": "plats"
+  },
+  "search-bar": {
+    "photo": "Sök efter gratis foton",
+    "video": "Sök efter gratis videor"
+  },
+  "buttons": {
+    "logout": "logga ut",
+    "join": "ansluta sig till",
+    "edite_profile": "edite profil",
+    "follow": "följa",
+    "change_password": "Ändra lösenord",
+    "change_image": "Ändra bild",
+    "download": "gratis nedladdning",
+    "borwse": "borwse",
+    "submit_conent": "Skicka ditt innehåll"
+  }
+}

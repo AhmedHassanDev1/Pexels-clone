@@ -1,0 +1,98 @@
+{
+  "home": {
+    "leaderboard": {
+      "description": "過去4週間で追加された写真とビデオに関する最も多くの視聴者を持つメンバー",
+      "title": "コミュニティのお気に入り"
+    },
+    "title": "最高の無料ストックフォト、クリエイターが共有するロイヤリティフリーの画像、ビデオ。",
+    "videos": "Pexelsコミュニティが共有する最高の無料ストックビデオ。"
+  },
+  "RegisterPage": {
+    "title": "Pexelsコミュニティに参加してください",
+    "description": "開始するために無料アカウントを作成します。"
+  },
+  "highlights": {
+    "not_found": {
+      "title": "あなたのコンテンツ、あなたのやり方",
+      "description": "お気に入りのコンテンツをスポットライトに載せて、完璧な第一印象を作成します。",
+      "redirect_button": "ハイライトを選択します"
+    }
+  },
+  "gallery": {
+    "not_found": {
+      "title": "まだコンテンツを持っていません",
+      "description": "それは大丈夫です、私たちはあなたのすべての素晴らしい写真からアップロードするものを選択するのはおそらく難しいことを知っています。",
+      "redirect_button": "インスピレーションを得てください"
+    }
+  },
+  "uploadPage": {
+    "title": "あなたの写真やビデオを共有し、世界にそれらを愛させてください。",
+    "description": "最初の50枚の写真またはビデオを共有して、何百万人ものペクセルユーザーに紹介します。",
+    "upload_methods": "ドラッグアンドドロップしてアップロードします",
+    "rules": {
+      "1": "キャプチャしたオリジナルコンテンツ",
+      "2": "ヌード、暴力、または憎しみを除外します",
+      "3": "他人の権利に注意してください",
+      "4": "高品質の写真とビデオ",
+      "5": "PEXELS用語をお読みください",
+      "6": "ダウンロードして無料で使用します"
+    }
+  },
+  "MediaPage": {
+    "free_content": "無料で使用してください",
+    "more_content": "このようなもの",
+    "info": "詳細",
+    "uploaded_at": "にアップロード",
+    "photo_delails": "写真の詳細"
+  },
+  "keyword": {
+    "about": "私たちについて",
+    "home": "家",
+    "leaderboard": "リーダーボード",
+    "upload": "アップロード",
+    "videos": "ビデオ",
+    "explore": "探検する",
+    "highlights": "ハイライト",
+    "gallery": "ギャラリー",
+    "followers": "フォロワー",
+    "following": "続く",
+    "milestones": "マイルストーン",
+    "views": "ビュー",
+    "downloads": "ダウンロード",
+    "likes": "いいね",
+    "colors": "色"
+  },
+  "links": {
+    "your_profile": "あなたのプロフィール",
+    "your_collections": "あなたのコレクション",
+    "license": "ライセンス",
+    "setting": "設定",
+    "skip_upload": "アップロードをスキップします"
+  },
+  "inputs": {
+    "first_name": "ファーストネーム",
+    "last_name": "苗字",
+    "email": "メール",
+    "password": "パスワード",
+    "current_password": "現在のパスワード",
+    "new password": "新しいパスワード",
+    "title": "タイトル",
+    "tags": "タグ",
+    "location": "位置"
+  },
+  "search-bar": {
+    "photo": "無料の写真を検索してください",
+    "video": "無料ビデオを検索します"
+  },
+  "buttons": {
+    "logout": "ログアウト",
+    "join": "参加する",
+    "edite_profile": "編集プロファイル",
+    "follow": "フォローする",
+    "change_password": "パスワードを変更する",
+    "change_image": "画像を変更します",
+    "download": "無料ダウンロード",
+    "borwse": "ボルス",
+    "submit_conent": "コンテンツを送信します"
+  }
+}

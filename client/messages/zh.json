@@ -1,0 +1,18 @@
+{
+  "home": {
+    "leaderboard": {
+      "description": "在过去4周内添加的照片和视频中，观看次数最多的成员",
+      "title": "社区最爱"
+    },
+    "title": "最好的免费库存照片、免版税图片和视频由创作者分享。",
+    "videos": "Pexels 社区分享的最佳免费库存视频。"
+  },
+  "keyword": {
+    "about": "关于我们",
+    "home": "首页",
+    "leaderboard": "排行榜",
+    "license": "许可证",
+    "upload": "上传",
+    "videos": "视频"
+  }
+}

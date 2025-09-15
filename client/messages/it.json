@@ -1,0 +1,18 @@
+{
+  "home": {
+    "leaderboard": {
+      "description": "Membri con il maggior numero di visualizzazioni su foto e video aggiunti nelle ultime 4 settimane",
+      "title": "Preferiti della comunità"
+    },
+    "title": "Le migliori foto stock gratuite, immagini e video royalty free condivisi dai creatori.",
+    "videos": "I migliori video stock gratuiti condivisi dalla comunità di Pexels."
+  },
+  "keyword": {
+    "about": "chi siamo",
+    "home": "casa",
+    "leaderboard": "classifica",
+    "license": "licenza",
+    "upload": "carica",
+    "videos": "video"
+  }
+}

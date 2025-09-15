@@ -1,0 +1,18 @@
+{
+  "home": {
+    "leaderboard": {
+      "description": "Miembros con más vistas en fotos y videos añadidos en las últimas 4 semanas",
+      "title": "Favoritos de la comunidad"
+    },
+    "title": "Las mejores fotos de stock gratuitas, imágenes y videos libres de derechos compartidos por creadores.",
+    "videos": "Los mejores videos de stock gratuitos compartidos por la comunidad de Pexels."
+  },
+  "keyword": {
+    "about": "acerca de nosotros",
+    "home": "inicio",
+    "leaderboard": "tabla de clasificación",
+    "license": "licencia",
+    "upload": "subir",
+    "videos": "videos"
+  }
+}

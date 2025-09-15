@@ -1,0 +1,104 @@
+{
+  "home": {
+    "leaderboard": {
+      "description": "Members with the most views on photos & videos added in the last 4 weeks",
+      "title": "Community Favorites"
+    },
+    "title": "The best free stock photos, royalty free images & videos shared by creators.",
+    "videos": "The best free stock videos shared by the Pexels community."
+  },
+  "RegisterPage": {
+    "title": "Join the Pexels community",
+    "description": "Create a free account to get started."
+    
+  },
+  "highlights": {
+    "not_found": {
+      "title": "Your Content, Your Way",
+      "description": "Create the perfect first impression by putting your favorite content in the spotlight. Showcase up to 40 of your best pieces of content and arrange them in the order you want them to be seen. Go ahead - select your Highlights and show the community the shots you're most proud of!",
+      "redirect_button": "Select your Highlights"
+    }
+  },
+  "gallery":{
+    "not_found":{
+      "title":"You don’t have any content yet 😔",
+      "description":"It's ok, we know it's probably hard to choose what to upload from all your amazing photos. You can come back and upload at any time. In the meantime, how about some inspiration from the talented photographers on Pexels?",
+      "redirect_button":"get inspird"
+    }
+  },
+  "uploadPage": {
+    "title": "Share your photos and videos, and let the world love them.",
+    "description": "Share your first 50 photos or videos to introduce yourself to millions of Pexels users.",
+    "upload_methods": "Drag and drop to upload, or",
+    "rules": {
+      "1": "Original content you captured",
+      "2": "Excludes nudity, violence, or hate",
+      "3": "Mindful of the rights of others",
+      "4": "High quality photos and videos",
+      "5": "Read the Pexels Terms",
+      "6": "To be downloaded and used for free"
+    }
+  },
+  "MediaPage":{
+    "free_content":"use free",
+    "more_content":"More like this",
+    "info":"more info",
+    "uploaded_at":"Uploaded at",
+    "photo_delails":"Photo details"
+  },
+  "keyword": {
+    "about": "about us",
+    "home": "home",
+    "leaderboard": "leaderboard",
+    "upload": "upload",
+    "videos": "videos",
+    "explore": "explore",
+    "highlights": "highlights",
+    "gallery": "gallery",
+    "followers": "followers",
+    "following": "following",
+    "milestones": "milestones",
+    "next_milestone":"Next Milestone",
+    "milestones_unlocked":"Milestones unlocked",
+    "views":"Views",
+    "total_views":"Total Views",
+    "overview":"Overview",
+    "downloads":"Downloads",
+    "likes":"Likes",
+    "colors":"colors",
+    "collections":"collections"
+  },
+  "links": {
+    "your_profile": "your profile",
+    "your_collections": "your collections",
+    "license": "license",
+    "setting": "setting",
+    "skip_upload": "skip upload"
+  },
+  "inputs": {
+    "first_name": "first name",
+    "last_name": "last name",
+    "email": "email",
+    "password": "password",
+    "current_password": "current password",
+    "new password": "new password",
+    "title": "title",
+    "tags": "tags",
+    "location": "location"
+  },
+  "search-bar": {
+    "photo": "Search for free photos",
+    "video": "Search for free videos"
+  },
+  "buttons": {
+    "logout": "log out",
+    "join": "join",
+    "edite_profile": "edite profile",
+    "follow": "follow",
+    "change_password": "change password",
+    "change_image": "change image",
+    "download": "free download",
+    "borwse": "borwse",
+    "submit_conent": "submit your content"
+  }
+}

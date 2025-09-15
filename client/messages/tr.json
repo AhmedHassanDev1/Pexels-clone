@@ -1,0 +1,18 @@
+{
+  "home": {
+    "leaderboard": {
+      "description": "Son 4 haftada eklenen fotoğraflarda ve videolarda en çok görüntülenen üyeler",
+      "title": "Topluluk Favorileri"
+    },
+    "title": "En iyi ücretsiz stok fotoğraflar, telifsiz görüntüler ve yaratıcılar tarafından paylaşılan videolar.",
+    "videos": "Pexels topluluğu tarafından paylaşılan en iyi ücretsiz stok videolar."
+  },
+  "keyword": {
+    "about": "hakkımızda",
+    "home": "ana sayfa",
+    "leaderboard": "lider tablosu",
+    "license": "lisans",
+    "upload": "yükle",
+    "videos": "videolar"
+  }
+}
