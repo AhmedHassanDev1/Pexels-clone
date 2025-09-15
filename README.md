@@ -6,6 +6,7 @@
 - Profile Statistics
 - download content
 - Extract image colors
+- Internationalization
 ## client
 - nextjs
 - react-form-hooks and ZOD for form validation
