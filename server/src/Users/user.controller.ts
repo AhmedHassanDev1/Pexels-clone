@@ -76,15 +76,7 @@ export class UserController {
         return leaderboard
     }
 
-    @Get('/followers/:user_id')
-    async getFollowers() {
-
-    }
-
-    @Get('/followings/:user_id')
-    async getfollowings() {
-
-    }
+  
 
     @Post('/follow/:user_id')
     async FollowUser(@CurrentUser("_id") currentUserId: string, @Param('user_id') userId: string) {
